@@ -2,6 +2,7 @@
 
 Scanning QR codes of products and displaying item name, item price , item count and total price of items on an LCD Display.
 
+
 ### components used
 - ESP32 CAM
 - ARDUNIO UNO
