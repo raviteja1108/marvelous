@@ -58,7 +58,6 @@ void setup(void) {
   else if ( u8g.getMode() == U8G_MODE_HICOLOR ) {
     u8g.setHiColorByRGB(255,255,255);
   }
-  
   pinMode(8, OUTPUT);
   intro();
   delay(3000);
